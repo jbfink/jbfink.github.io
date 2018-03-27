@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>finkblog</title>
-    <link>http://jbfink.github.io/</link>
-    <description>Recent content on finkblog</description>
+    <title>Posts on finkblog</title>
+    <link>http://jbfink.github.io/post/</link>
+    <description>Recent content in Posts on finkblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Mar 2018 17:52:35 -0400</lastBuildDate>
     
-	<atom:link href="http://jbfink.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jbfink.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Tue, 27 Mar 2018 17:52:35 -0400</pubDate>
       
       <guid>http://jbfink.github.io/post/20180327-helloworld/</guid>
-      <description>Hello World!</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://jbfink.github.io/posts/20180327-helloworld/</link>
-      <pubDate>Tue, 27 Mar 2018 17:52:35 -0400</pubDate>
-      
-      <guid>http://jbfink.github.io/posts/20180327-helloworld/</guid>
       <description>Hello World!</description>
     </item>
     
